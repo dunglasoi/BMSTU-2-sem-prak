@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/dung/Documents/Praktika kì 2 năm 1/Отчет номер 4",
+      "program": "/Users/dung/Documents/Praktika kì 2 năm 1/Отчет номер 4/build/Debug/outDebug"
+    }
+  ]
+}
